@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .containerbig {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  
+  .text-container p {
+    font-size: 1.2em;
+    color: white;
+  }
+  
+  button {
+    font-size: 1.2em;
+    margin: 10px;
+  }
+
+  .image-container {
+    margin-right: 20px;
+  }
+  
+  .sidepic {
+    max-width: 256px;
+  }

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "openai": "^3.3.0"
+  }
+}
